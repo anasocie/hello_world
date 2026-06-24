@@ -6,7 +6,7 @@ A collection of "Hello, World!" implementations in multiple programming language
 
 ---
 
-## 🚀 Purpose
+## purpose
 
 - Learn and revisit the syntax of different programming languages
 - Have a quick reference when starting new projects
@@ -15,4 +15,4 @@ A collection of "Hello, World!" implementations in multiple programming language
 
 ---
 
-## 📁 Project Structure
+
